@@ -971,7 +971,7 @@ This method is called by C<start()> if needed.
 =item push_filter()
 
 The C<push_filter()> method is used to add filters to the proxy.
-It is fully described in section L<FILTERS>.
+It is fully described in section L</FILTERS>.
 
 =back
 
