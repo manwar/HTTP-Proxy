@@ -867,7 +867,7 @@ Named parameters can be used to create the match routine. They are:
     query  - the URI query string
     mime   - the MIME type (for a response-body filter)
 
-The filters are applied only when all the the parameters match the
+The filters are applied only when all the parameters match the
 request or the response. All these named parameters have default values,
 which are:
 
